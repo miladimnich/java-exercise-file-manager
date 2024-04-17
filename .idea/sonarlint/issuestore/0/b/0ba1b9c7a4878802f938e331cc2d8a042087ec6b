@@ -1,0 +1,15 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+?	java:S106"+Replace this use of System.out by a logger.(Ù‚
+E	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(­Õ®í
+E	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(–§ù
+@	java:S106"+Replace this use of System.out by a logger.(–§ù
+V	java:S125"<This block of commented-out lines of code should be removed.(ßÁ×±ûÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
